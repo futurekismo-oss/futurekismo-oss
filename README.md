@@ -48,7 +48,7 @@ class Future:
 <tr>
 <td width="50%">
 
-### 🔤 EXA Lang
+### [🔤 EXA Lang](https://github.com/futurekismo-oss/EXAs)
 A programming language built from scratch in Python.
 Custom instruction set, registers, bytecode generation and execution loop.
 Approaching kernel-readiness.
@@ -58,7 +58,7 @@ Approaching kernel-readiness.
 </td>
 <td width="50%">
 
-### 🎵 ambience.lua
+### [🎵 Ambience.nvim](https://github.com/futurekismo-oss/Ambience.nvim)
 Neovim plugin that plays random lofi/ambience tracks via mpv.
 Uses a dedicated IPC socket and socat for non-blocking control.
 Because focus matters.
@@ -70,12 +70,12 @@ Because focus matters.
 <tr>
 <td width="50%">
 
-### 🎨 ytx-ui.sh
-UI extension for yt-x — YouTube in the terminal.
-Catppuccin Mocha themed, matrix-style ASCII header,
-Nerd Font icons, sectioned menus, Wayland clipboard support.
+### [⚙️ Nvim Config](https://github.com/futurekismo-oss/Nvim-cfg)
+Personal Neovim configuration built on AstroNvim.
+Tuned for performance on low-spec hardware.
+The editor is the environment.
 
-`Bash` `fzf` `ANSI` `Wayland`
+`Lua` `Neovim` `AstroNvim`
 
 </td>
 <td width="50%">
