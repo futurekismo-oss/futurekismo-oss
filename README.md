@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=200&section=header&text=Future&fontSize=80&fontColor=cdd6f4&fontAlignY=35&desc=building%20things%20that%20shouldn't%20work%20on%20hardware%20that%20shouldn't%20either&descColor=a6adc8&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=200&section=header&text=Future&fontSize=80&fontColor=cdd6f4&fontAlignY=35&desc=valgrind%20said%200%20errors.%20valgrind%20lied.&descColor=a6adc8&descAlignY=60&descSize=16" />
 
 </div>
 
@@ -137,6 +137,6 @@ PID   PROCESS                          STATUS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,100:1e1e2e&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,100:1e1e2e&height=120&section=footer&text=it%20works%20on%20my%20machine%20%7C%20shipped%20it%20anyway&fontSize=14&fontColor=a6adc8&fontAlignY=65" />
 
 </div>
