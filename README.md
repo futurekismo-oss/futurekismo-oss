@@ -4,7 +4,7 @@
 local Futurekismo = {
 	name = "Futurekismo",
 	location = "World Wide Web",
-	-- website = "", -- TODO
+	-- website = "", <- TODO
 	main_languages = "programming languages are simply tools for our craft",
 	grade = "The education system limits our power",
 	languages_known = 9,
