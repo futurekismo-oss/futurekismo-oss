@@ -17,6 +17,11 @@ local Futurekismo = {
 Futurekismo:details()
 ```
 
+<div align="center">
+    
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=futurekismo-oss&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=futurekismo-oss&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark_github)
+
+</div>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=samuel&font=Architect)
 ![](https://komarev.com/ghpvc/?username=futurekismo-oss&color=blue)
